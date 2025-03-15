@@ -3,30 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kiran M - Portfolio</title>
+    <title>Kiran M | Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to Kiran M's Portfolio</h1>
-        <img src="your-photo.jpg" alt="Kiran M">
+        <h1>Kiran M</h1>
+        <p>Aspiring AI/ML Engineer | Web Developer</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
     </header>
     
     <section id="about">
         <h2>About Me</h2>
-        <p>I am a passionate developer with skills in JavaScript, Python, HTML, and CSS. Currently studying AI & ML.</p>
+        <p>I am an aspiring AI/ML Engineer and Web Developer with a passion for creating intelligent applications. Currently studying at Dr. Ambedkar Institute of Technology.</p>
     </section>
     
     <section id="projects">
         <h2>Projects</h2>
-        <p>Coming Soon...</p>
+        <p>Coming soon...</p>
     </section>
     
     <section id="contact">
         <h2>Contact</h2>
         <p>Email: Kirank4989@gmail.com</p>
-        <p>GitHub: <a href="https://github.com/kiran05-stack">kiran05-stack</a></p>
-        <p>LinkedIn: [Your LinkedIn Link]</p>
+        <p>GitHub: <a href="https://github.com/kiran05-stack" target="_blank">kiran05-stack</a></p>
     </section>
+    
+    <footer>
+        <p>&copy; 2025 Kiran M. All Rights Reserved.</p>
+    </footer>
 </body>
 </html>
